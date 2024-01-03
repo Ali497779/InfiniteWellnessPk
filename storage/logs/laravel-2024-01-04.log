@@ -1,0 +1,52 @@
+[2024-01-04 00:17:04] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:18:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:19:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:20:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:21:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:22:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:23:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:24:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:25:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:26:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:27:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:28:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 
+[2024-01-04 00:29:01] local.ERROR: Cannot redeclare getLoggedInUserId() (previously declared in C:\xampp\htdocs\InfiniteWellnessPk\app\helpers.php:31) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare getLoggedInUserId() (previously declared in C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:31) at C:\\xampp\\htdocs\\InfiniteWellnessPk\\app\\helpers.php:29)
+[stacktrace]
+#0 {main}
+"} 

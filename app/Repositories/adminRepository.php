@@ -49,7 +49,7 @@ class adminRepository extends BaseRepository
             $input['department_id'] = Department::whereName('Admin')->first()->id;
             $input['password'] = Hash::make($input['password']);
             $input['phone'] = preparePhoneNumber($input, 'phone');
-            $input['dob'] = (! empty($input['dob'])) ? $input['dob'] : null;
+            $input['dob'] = (!empty($input['dob'])) ? $input['dob'] : null;
             $input['email_verified_at'] = Carbon::now();
             $user = User::create($input);
             //            if ($mail) {

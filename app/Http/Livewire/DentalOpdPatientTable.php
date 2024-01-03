@@ -54,6 +54,7 @@ class DentalOpdPatientTable extends LivewireTableComponent
                 ->view('opd_patient_departments.columns.opd_nodental')
                 ->sortable()
                 ->searchable(),
+                
             //                ->searchable(fn(Builder $query, $searchTerm) =>
             //                $query->with('opd')->whereHas('opd', function (Builder $q) use ($searchTerm){
             //
